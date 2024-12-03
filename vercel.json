@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/index", 
+      "destination": "https://docs.google.com/forms/d/e/1FAIpQLSfo7xmn1kewq7d4xaB8k_CYLet1Z7beAMk8MKo4Ygf11ZOQZA/viewform"
+    }
+  ]
+}
+
